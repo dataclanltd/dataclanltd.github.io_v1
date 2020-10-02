@@ -11,7 +11,7 @@
 
 ```bash
 # Clone the repo
-git clone 
+git clone https://github.com/dataclanltd/website.git
 
 # Navigate to frontend folder
 cd website
@@ -25,4 +25,4 @@ npm start
 # Deploy to github pages
 npm run build
 ```
-Once the server has started, it will print a local development URL to open in your browser. Now you're ready to test drive the Dataclan website!
+TO get a live preview of the website, visit http://dataclanltd.github.io/website/ after running the deploy command above.
