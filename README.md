@@ -3,6 +3,12 @@
 
 ## Local installation
 
+
+**Prerequisites:**
+
+- `Github` account and git installed
+- `Node.js` and `npm` installed in your machine(`Node 8.10.0` or later versions are accepted)
+
 ```bash
 # Clone the repo
 git clone 
