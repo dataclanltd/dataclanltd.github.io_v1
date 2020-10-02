@@ -25,4 +25,4 @@ npm start
 # Deploy to github pages
 npm run build
 ```
-TO get a live preview of the website, visit http://dataclanltd.github.io/website/ after running the deploy command above.
+To get a live preview of the website, visit http://dataclanltd.github.io/website/ after running the deploy command above.
