@@ -175,8 +175,8 @@ class App extends Component {
             <div class="container">
               <div class="row center">
                 <h5 class="header col s12 light">
-                  A modern responsive front-end framework based on Material
-                  Design
+                  A Ugandan AI start-up with over 10 years experience innovating
+                  technology solutions.
                 </h5>
               </div>
             </div>
@@ -193,61 +193,11 @@ class App extends Component {
               <div className="col l6 s12">
                 <h5 className="white-text">Company Bio</h5>
                 <p className="grey-text text-lighten-4">
-                  We are a team of college students working on this project like
-                  it's our full time job. Any amount would help support and
-                  continue development on this project and is greatly
-                  appreciated.
+                  We are a team of software engineers coming from diverse
+                  backgrounds including engineering, computer science among
+                  others working on building soltions to complex problems using
+                  data science, software development and analytics.
                 </p>
-              </div>
-              <div className="col l3 s12">
-                <h5 className="white-text">Settings</h5>
-                <ul>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 1
-                    </a>
-                  </li>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 2
-                    </a>
-                  </li>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 3
-                    </a>
-                  </li>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 4
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <div className="col l3 s12">
-                <h5 className="white-text">Connect</h5>
-                <ul>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 1
-                    </a>
-                  </li>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 2
-                    </a>
-                  </li>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 3
-                    </a>
-                  </li>
-                  <li>
-                    <a className="white-text" href="#!">
-                      Link 4
-                    </a>
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
