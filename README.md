@@ -11,10 +11,10 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/dataclanltd/website.git
+git clone https://github.com/dataclanltd/dataclanltd.github.io.git
 
 # Navigate to frontend folder
-cd website
+cd dataclanltd.github.io
 
 # Install frontend dependencies
 npm install
@@ -25,4 +25,4 @@ npm start
 # Deploy to github pages
 npm run build
 ```
-To get a live preview of the website, visit http://dataclanltd.github.io/website/ after running the deploy command above.
+To get a live preview of the website, visit https://dataclanltd.github.io/ after running the deploy command above.
